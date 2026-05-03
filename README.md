@@ -1,5 +1,6 @@
-Hi, I'm Roman
+Hi, 
 
+I'm vibing here.
 Product Person in IT (Yandex, Semrush, ivi.tv) with hands-on development experience.
 
 <!--
