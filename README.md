@@ -1,7 +1,6 @@
 Hi, 
 
 I like agenic dev. 
-I'm a product person with years of experiance at top-tier companies: Yandex, Semrush, ivi.tv. 
 
 <!--
 **romargera/romargera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
