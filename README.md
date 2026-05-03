@@ -1,7 +1,7 @@
 Hi, 
 
-I'm vibing here.
-Product Person in IT (Yandex, Semrush, ivi.tv) with hands-on development experience.
+I like agenic dev. 
+I'm a product person with years of experiance at top-tier companies: Yandex, Semrush, ivi.tv. 
 
 <!--
 **romargera/romargera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
