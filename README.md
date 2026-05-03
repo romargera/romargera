@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi, I'm Roman
+
+Product Person in IT (Yandex, Semrush, ivi.tv) with hands-on development experience.
 
 <!--
 **romargera/romargera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
